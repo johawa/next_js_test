@@ -1,0 +1,20 @@
+{
+  "name": "draggable_next.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Johannes Walenta",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^7.0.0",
+    "react": "^16.5.2",
+    "react-device-detect": "^1.6.1",
+    "react-dom": "^16.5.2"
+  }
+}
